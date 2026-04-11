@@ -1,6 +1,6 @@
 ## Prince Rawat
 
-Founder of [Clayley Labs](https://x.com/Mr_princerawat), an independent AI research lab focused on small models and efficient inference.
+Reseaerching AI @[Clayley Labs](https://clayleylabs.com), an independent AI research lab focused on small models and efficient inference.
 
 ### Selected Projects
 
