@@ -1,6 +1,6 @@
 ## Prince Rawat
 
-Reseaerching AI @[Clayley Labs](https://clayleylabs.com), an independent AI research lab focused on small models and efficient inference.
+Researching AI @[Clayley Labs](https://clayleylabs.com), an independent AI research lab focused on small models and efficient inference.
 
 ### Selected Projects
 
